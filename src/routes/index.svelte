@@ -34,7 +34,7 @@
 <Card />
 
 <main>
-	<h1><span>Hello from the edge!</span></h1>
+	<h1><span>JUNGLELABᵀᴹ edge!</span></h1>
 
 	<div class="info">
 		<div class="block">
